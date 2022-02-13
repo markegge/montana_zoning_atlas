@@ -2,10 +2,11 @@
 
 February, 2022
 
-**Contact**: Mark Egge
+**Contact**: Mark Egge (mark at eateggs dot com)
+
 _Mark Egge is a Bozeman-based advocate for affordable housing and for sustainable and safe transportation._
 
-This repository contains the code used to produce the data layers behind the [Montana Zoning Atlas](). This code combines zoning layers and cadastral parcel data to evaluate where affordable multifamily housing is permitted and prohibited in Whitefish, Helena, Kalispell, Missoula, Bozeman, and Billings, MT. Data processing by Mark Egge. Zoning code research and financial assistance by the [Frontier Institute]().
+This repository contains the code used to produce the data layers behind the [Montana Zoning Atlas](). This code combines zoning layers and cadastral parcel data to evaluate where affordable multifamily housing is permitted and prohibited in Whitefish, Helena, Kalispell, Missoula, Bozeman, and Billings, MT. Data processing by Mark Egge. Zoning code research and by the [Frontier Institute](https://frontierinstitute.org).
 
 ## Data Sources
 
