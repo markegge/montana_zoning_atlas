@@ -50,3 +50,5 @@ For each city:
 * Lot Size (square feet) is calculated
 * For each parcel, a minimum bounding box is calcualted. The width of the minimum bounding box is joined back to the parcel as its width
 * Appropriate logic is applied to determine the number of units the parcel's zoning, lot size, and lot width allows
+
+Data processing steps are detailed in `data_prep.ipynb`
