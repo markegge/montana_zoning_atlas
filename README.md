@@ -10,16 +10,16 @@ This repository contains the code used to produce the data layers behind the [Mo
 
 ## Data Sources
 
-Parcel Data downloaded from Montana Cadastral: (https://msl.mt.gov/geoinfo/msdi/cadastral/)
+Parcel Data downloaded from Montana Cadastral: https://msl.mt.gov/geoinfo/msdi/cadastral/
 
 Zoning Data Sources:
 
-* Billings: (https://billingsgis.com/arcgis_public/rest/services/ArcOnline_Public/COB_Zoning/MapServer/4)
-* Bozeman: (https://gisweb.bozeman.net/arcgis/rest/services/Open_Data/Zoning/FeatureServer/0)
-* Helena: (https://helenamontanamaps.org/arcgisadp/rest/services/LCSimple/MapServer/42)
-* Kalispell: (https://maps.ci.kalispell.mt.us/server/rest/services/PlanningDept/Zoning/FeatureServer/0)
-* Missoula: (https://services.arcgis.com/HfwHS0BxZBQ1E5DY/arcgis/rest/services/Zoning_and_Land_Use_mso/FeatureServer/0/)
-* Whitefish: (https://maps.cityofwhitefish.org/server/rest/services/kiosk_zones/MapServer/0)
+* Billings: https://billingsgis.com/arcgis_public/rest/services/ArcOnline_Public/COB_Zoning/MapServer/4
+* Bozeman: https://gisweb.bozeman.net/arcgis/rest/services/Open_Data/Zoning/FeatureServer/0
+* Helena: https://helenamontanamaps.org/arcgisadp/rest/services/LCSimple/MapServer/42
+* Kalispell: https://maps.ci.kalispell.mt.us/server/rest/services/PlanningDept/Zoning/FeatureServer/0
+* Missoula: https://services.arcgis.com/HfwHS0BxZBQ1E5DY/arcgis/rest/services/Zoning_and_Land_Use_mso/FeatureServer/0/
+* Whitefish: https://maps.cityofwhitefish.org/server/rest/services/kiosk_zones/MapServer/0
 
 Data layers accessed and downloaded January 15, 2022
 
