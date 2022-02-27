@@ -52,3 +52,13 @@ For each city:
 * Appropriate logic is applied to determine the number of units the parcel's zoning, lot size, and lot width allows
 
 Data processing steps are detailed in `data_prep.ipynb`
+
+The rules used to assign zoning categories for each city are contained in their respective notebooks.
+
+
+### Zoning Category Color Scheme
+
+* Multifamily: #01a1a0
+* Penalized Multifmaily: #80cdc1
+* Single Family: #ea60b9
+* De Facto Single Family: #eaa0b9
